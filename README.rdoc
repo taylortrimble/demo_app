@@ -55,7 +55,7 @@ debugging and runtime information to these files. Debugging info will also be
 shown in the browser on requests from 127.0.0.1.
 
 You can also log your own messages directly into the log file from your code
-using the Ruby logger class from inside your controllers. Example:
+using the Ruby logger class from inside your controllers, yo. Example:
 
   class WeblogController < ActionController::Base
     def destroy
